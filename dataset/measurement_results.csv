@@ -1,0 +1,10 @@
+Image,ObjectID,PixelDiameter,Diameter_mm,Diameter_cm,Distance_mm,Distance_cm,Mode
+1.jpg,Object 1,126.847387981473,59.4597131163153,5.94597131163153,300,30,Estimate Diameter (Know Distance)
+9.jpg,Object 1,121.021720400876,56.7289314379104,5.67289314379104,300,30,Estimate Diameter (Know Distance)
+16.jpg,Object 1,62.121943286385,29.119660915493,2.9119660915493,300,30,Estimate Diameter (Know Distance)
+16.jpg,Object 2,61.2300186851081,28.7015712586444,2.87015712586444,300,30,Estimate Diameter (Know Distance)
+16.jpg,Object 3,57.8161232318537,27.1013077649314,2.71013077649314,300,30,Estimate Diameter (Know Distance)
+17.jpg,Object 1,121.509941357341,56.9577850112535,5.69577850112535,300,30,Estimate Diameter (Know Distance)
+17.jpg,Object 2,118.808822318459,55.6916354617776,5.56916354617776,300,30,Estimate Diameter (Know Distance)
+18.jpg,Object 1,208.190027124415,97.5890752145697,9.75890752145697,300,30,Estimate Diameter (Know Distance)
+18.jpg,Object 2,205.584609622697,96.3677857606391,9.63677857606391,300,30,Estimate Diameter (Know Distance)
